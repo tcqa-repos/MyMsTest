@@ -1,0 +1,13 @@
+D:\Projects\MyMSTest\MSTest\Bank\bin\Debug\Bank.dll
+D:\Projects\MyMSTest\MSTest\Bank\bin\Debug\Bank.pdb
+D:\Projects\MyMSTest\MSTest\Bank\obj\Debug\Bank.dll
+D:\Projects\MyMSTest\MSTest\Bank\obj\Debug\Bank.pdb
+D:\Projects\MyMSTest\Bank\bin\Debug\Bank.dll
+D:\Projects\MyMSTest\Bank\bin\Debug\Bank.pdb
+D:\Projects\MyMSTest\Bank\obj\Debug\Bank.dll
+D:\Projects\MyMSTest\Bank\obj\Debug\Bank.pdb
+D:\TeamCity\10\10.0\buildAgent\work\598f8466629ec\Bank\bin\Debug\Bank.dll
+D:\TeamCity\10\10.0\buildAgent\work\598f8466629ec\Bank\bin\Debug\Bank.pdb
+D:\TeamCity\10\10.0\buildAgent\work\598f8466629ec\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\TeamCity\10\10.0\buildAgent\work\598f8466629ec\Bank\obj\Debug\Bank.dll
+D:\TeamCity\10\10.0\buildAgent\work\598f8466629ec\Bank\obj\Debug\Bank.pdb
